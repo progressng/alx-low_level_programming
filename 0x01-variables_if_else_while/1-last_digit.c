@@ -4,7 +4,7 @@
 
 /**
  * main - Checks last digit
- * 
+ *
  * Return: 0
  */
 
