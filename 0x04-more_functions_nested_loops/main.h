@@ -11,3 +11,5 @@ void print_numbers(void);
 void print_triangle(int size);
 
 void print_number(int n);
+
+void more_numbers(void);
